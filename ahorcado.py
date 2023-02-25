@@ -16,7 +16,7 @@ def get_valid_word(lista_palabras):
 
 
 def ahorcado():
-    print('Bienvenido al juegodel ahorcado!!!')
+    print('Bienvenido al juego del ahorcado!!!')
 
     word = get_valid_word(palabras)
 
