@@ -33,7 +33,7 @@ def busqueda_binaria(lista, objetivo, limite_inferior = None, limite_superior = 
 
 if __name__=='__main__':
     # Crear una lista ordenada con 1000 numeros aleatorios
-    size = 30000
+    size = 3000
     conjunto = set()
 
     while len(conjunto) < size:
